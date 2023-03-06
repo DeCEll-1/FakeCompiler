@@ -1,0 +1,8 @@
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\bin\Debug\FakeCompiler.exe.config
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\bin\Debug\FakeCompiler.exe
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\bin\Debug\FakeCompiler.pdb
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\obj\Debug\FakeCompiler.csproj.AssemblyReference.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\obj\Debug\FakeCompiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\obj\Debug\FakeCompiler.csproj.CoreCompileInputs.cache
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\obj\Debug\FakeCompiler.exe
+C:\Users\poedx\OneDrive\Belgeler\GitHub\FakeCompiler\FakeCompiler\obj\Debug\FakeCompiler.pdb
